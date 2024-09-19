@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [vue()],
   build: {
     rollupOptions:{
-      external: ['fuse.js']
+      external: ['fuse.js','multi-range-slider-vue']
     }
   }
 })
