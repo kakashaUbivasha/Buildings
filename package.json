@@ -13,6 +13,7 @@
     "axios": "^1.7.2",
     "bootstrap": "^5.3.3",
     "fuse.js": "^7.0.0",
+    "multi-range-slider-vue": "^1.1.4",
     "swiper": "^11.1.8",
     "vue": "^3.4.31",
     "vue-router": "^4.4.0",
