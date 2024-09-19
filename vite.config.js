@@ -8,5 +8,10 @@ export default defineConfig({
     rollupOptions:{
       external: ['fuse.js','multi-range-slider-vue']
     }
+  },
+  resolve: {
+    alias: {
+      '@': '/src', // или другой путь
+    }
   }
 })
